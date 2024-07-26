@@ -19,8 +19,8 @@ class MainClass
                     arr[i] = arr[i + 1];
                     arr[i + 1] = max;
                     arrayIsSorted = false;
-                }
-                else j--; // счетчик обходов массива
+                } 
+                else j--; //  счетчик обходов массива
             }
             else
             {
